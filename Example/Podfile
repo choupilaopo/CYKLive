@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CYKLive_Tests' do
+  pod 'CYKLive', :path => '../'
+  
+  
+end
