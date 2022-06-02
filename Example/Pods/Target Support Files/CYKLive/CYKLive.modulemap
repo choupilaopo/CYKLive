@@ -1,0 +1,6 @@
+framework module CYKLive {
+  umbrella header "CYKLive-umbrella.h"
+
+  export *
+  module * { export * }
+}

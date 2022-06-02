@@ -1,0 +1,22 @@
+{
+  "name": "CYKLive",
+  "version": "0.1.0",
+  "summary": "A short description of CYKLive.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/caiyongkang/CYKLive",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "caiyongkang": "942627444@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/caiyongkang/CYKLive.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CYKLive/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - CYKLive (0.1.0)
+
+DEPENDENCIES:
+  - CYKLive (from `../`)
+
+EXTERNAL SOURCES:
+  CYKLive:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CYKLive: 2cbe52ab76903880e8973312ba8bf0fe841aa02f
+
+PODFILE CHECKSUM: f3e9b2ee1802c3076250826e0fa7cda337a7522d
+
+COCOAPODS: 1.10.1
